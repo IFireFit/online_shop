@@ -1,0 +1,42 @@
+body {
+    background-color: lightblue;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: dimgrey;
+}
+.product {
+    width:600px;
+    margin:0 auto;
+    border:1px solid silver;
+    border-radius: 10px;
+    background-color: white;
+    padding:5px;
+   }
+.product img {
+    width:250px;
+    border-radius: 10px;
+    display:block;
+    margin:0 auto;
+}
+.product button {
+    display: block;
+    margin:0 auto;
+    height:40px;
+    background-color: lime;
+    border:none;
+    color: white;
+}
+.cart {
+    width:600px;
+    border: 1px solid silver;
+    border-radius: 10px;
+    margin:0 auto;
+    background-color: whitesmoke;
+    padding:10px;
+    margin-bottom:5px;
+    text-align:center;
+    }
+.cart img {
+    width:50px;
+    cursor: pointer;
+    }
